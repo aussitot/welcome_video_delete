@@ -1,7 +1,7 @@
 <?php
 
 //parametres
-$DayToKeep = 15;
+$DayToKeep = 15; //nb de jours à garder
 
 //supression recursive d'un répertoire et de son contenu
 function delTree($dir) {
